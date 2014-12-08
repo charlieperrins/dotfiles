@@ -2,15 +2,10 @@ brew install caskroom/cask/brew-cask
 
 # Apps
 apps=(
-  dropbox
   transmit
-  firefox
-  spotify
   vagrant
-  iterm2
-  sublime-text2
+  sublime-text
   virtualbox
-  sketch
   vlc
   quicklook-json
   skype
